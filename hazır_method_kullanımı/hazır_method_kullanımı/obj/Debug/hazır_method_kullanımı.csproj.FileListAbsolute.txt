@@ -1,0 +1,7 @@
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\bin\Debug\hazır_method_kullanımı.exe.config
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\bin\Debug\hazır_method_kullanımı.exe
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\bin\Debug\hazır_method_kullanımı.pdb
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\obj\Debug\hazır_method_kullanımı.csprojAssemblyReference.cache
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\obj\Debug\hazır_method_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\obj\Debug\hazır_method_kullanımı.exe
+C:\Users\alibs\source\repos\hazır_method_kullanımı\hazır_method_kullanımı\obj\Debug\hazır_method_kullanımı.pdb
